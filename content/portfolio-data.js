@@ -38,8 +38,8 @@ export const portfolioContent = {
     contacts: [
       {
         label: "Email",
-        value: "huynguyennhu.uk@gmail.com",
-        href: "mailto:huynguyennhu.uk@gmail.com",
+        value: "henry.nhu2201@gmail.com",
+        href: "henry.nhu2201@gmail.com",
         icon: "@",
       },
       {
